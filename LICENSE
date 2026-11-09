@@ -1,0 +1,12 @@
+This repository is licensed under the GNU General Public License v3.0.
+
+The files detect_plate.py and traffic_count.py are derivative works of YOLOv5
+(https://github.com/ultralytics/yolov5), Copyright (c) Ultralytics, which is
+distributed under GPL-3.0. A derivative work must be distributed under the same
+licence, so the whole repository is GPL-3.0.
+
+Full licence text: https://www.gnu.org/licenses/gpl-3.0.txt
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.

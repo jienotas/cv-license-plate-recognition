@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+
+# model weights and test footage are not committed
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+runs/
+result/

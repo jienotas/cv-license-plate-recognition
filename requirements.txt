@@ -1,0 +1,7 @@
+# install YOLOv5 first: pip install -r requirements.txt (in the yolov5 checkout)
+torch>=1.12
+torchvision>=0.13
+opencv-python>=4.6
+numpy>=1.23
+matplotlib>=3.6
+mysql-connector-python>=8.0  # optional, only for save_to_db
